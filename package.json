@@ -9,7 +9,7 @@
     "@types/react-dom": "^16.8.4",
     "@types/react-router-dom": "^4.3.2",
     "debug": ">=2.6.9",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "moment": "^2.21.0",
     "open-graph-scraper": "^3.3.0",
     "react": "^16.7.0",
