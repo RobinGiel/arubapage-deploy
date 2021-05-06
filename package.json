@@ -42,7 +42,7 @@
     "react-sticky-el": "^1.0.20",
     "react-transition-group": "^4.0.0",
     "rebound": "^0.1.0",
-    "sanitize-html": "^1.18.2",
+    "sanitize-html": "^2.3.2",
     "skycons": "git+https://github.com/darkskyapp/skycons.git#master",
     "source-map-explorer": "^1.8.0",
     "sw-toolbox": "^3.6.0",
