@@ -10,7 +10,7 @@
     "@types/react-router-dom": "^4.3.2",
     "debug": ">=2.6.9",
     "lodash": "^4.17.5",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "open-graph-scraper": "^3.3.0",
     "react": "^16.7.0",
     "react-add-to-homescreen": "^1.0.0",
